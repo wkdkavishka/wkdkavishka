@@ -3,7 +3,7 @@
 
 <!-- Description with an emoji -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="status" />
+  <img src="[https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge](https://www.linkedin.com/in/dumindu-kavishka/)" alt="Linkedin" />
   <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge" alt="license" />
 </p>
 
