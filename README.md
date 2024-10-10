@@ -1,5 +1,8 @@
 <!-- Header Section with a catchy title -->
-<h1 align="center">✨ Hi I'm W.K.D.Kavishka! ✨</h1>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="dk-logo-2-round.png" alt="my logo" style="width: 70px; height: auto; margin-right: 10px;">
+    <h1>Hi, I'm W.K.D.Kavishka!</h1>
+</div>
 
 <!-- Description with an emoji -->
 <p align="center">
@@ -15,6 +18,7 @@
 ---
 
 ## 🌟 Features
+
 - 🔥 **Fast and Optimized**: This project is designed to be super fast.
 - 🎨 **Colorful**: We've added a lot of fun and colorful components!
 - ⚙️ **Customizable**: Make it your own by tweaking a few variables.
@@ -31,3 +35,4 @@ git clone https://github.com/username/repo.git
 cd repo
 npm install
 npm start
+```
