@@ -1,5 +1,5 @@
 <!-- Header Section with a catchy title -->
-<h1 align="center">✨ Welcome to My Project! ✨</h1>
+<h1 align="center">✨ Hi I'm W.K.D.Kavishka! ✨</h1>
 
 <!-- Description with an emoji -->
 <p align="center">
