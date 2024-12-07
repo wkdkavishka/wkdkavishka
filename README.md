@@ -44,28 +44,26 @@
 ## 🌟 Technologies
 
 ### 🐳 Docker
+
 ### 🌱 Spring Boot
+
 ### 🐍 Flask
+
 ### 🚀 Express
+
 ### 🖼️ Vue.js
+
 ### 💎 Liquid / Ruby
+
 ### 📱 Ionic
+
 ### 🐘 PostgreSQL
+
 ### 🌌 Cassandra
+
 ### 🐧 Linux / Unix
 
-
 ---
-## 🌟 Technologies
-
-🐳 **Docker**                     🌱 **Spring Boot**  
-🐍 **Flask**                      🚀 **Express**  
-🖼️ **Vue.js**                    💎 **Liquid / Ruby**  
-📱 **Ionic**                      🐘 **PostgreSQL**  
-🌌 **Cassandra**                  🐧 **Linux / Unix**
-
-
-
 
 ## 🚀 Installation
 
