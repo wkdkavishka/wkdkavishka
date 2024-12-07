@@ -1,24 +1,12 @@
 <h1 align="center">Hi 👋, I'm W.K.D.Kavishka</h1>
-
-<p align="center">
-  <a href="https://zealous-hill-0ad399900.5.azurestaticapps.net/">
-    ## Hi 👋, I'm W.K.D.Kavishka
-  </a>
-</p>
-
 <h3 align="center">Someone trying to learn and Improve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkdkavishka&label=Profile%20views&color=0e75b6&style=flat" alt="wkdkavishka" /> </p>
-
-
-
 
 <!-- An engaging GIF under the title -->
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="fun gif" width="250"  />
 </p>
-
-
 
 <!-- Description with an emoji -->
 <p align="center">
@@ -49,11 +37,12 @@
 
 </p>
 
+<!-- Current Status -->
 - 🔭 Check Me On My Web Site [wkdkavishka.com](https://zealous-hill-0ad399900.5.azurestaticapps.net)
 
 - 🔭 I’m currently working on [Globevik](https://github.com/Globevik)
 
-- 🌱 I’m currently learning **Spring Express React**
+- 🌱 I’m currently learning **Express, Next**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wkdkavishka](https://github.com/wkdkavishka)
 
