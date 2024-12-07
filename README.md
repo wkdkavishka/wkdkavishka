@@ -42,7 +42,7 @@
 
 </p>
 
-- 🔭 I’m currently working on [Globevik](https://github.com/Globevik/Globevik-POS-Back-end)
+- 🔭 I’m currently working on [Globevik](https://github.com/Globevik)
 
 - 🌱 I’m currently learning **Spring Express React**
 
