@@ -56,31 +56,14 @@
 
 
 ---
-
 ## 🌟 Technologies
 
-<table>
-  <tr>
-    <td align="center">🐳 <b>Docker</b></td>
-    <td align="center">🌱 <b>Spring Boot</b></td>
-  </tr>
-  <tr>
-    <td align="center">🐍 <b>Flask</b></td>
-    <td align="center">🚀 <b>Express</b></td>
-  </tr>
-  <tr>
-    <td align="center">🖼️ <b>Vue.js</b></td>
-    <td align="center">💎 <b>Liquid / Ruby</b></td>
-  </tr>
-  <tr>
-    <td align="center">📱 <b>Ionic</b></td>
-    <td align="center">🐘 <b>PostgreSQL</b></td>
-  </tr>
-  <tr>
-    <td align="center">🌌 <b>Cassandra</b></td>
-    <td align="center">🐧 <b>Linux / Unix</b></td>
-  </tr>
-</table>
+🐳 **Docker**                     🌱 **Spring Boot**  
+🐍 **Flask**                      🚀 **Express**  
+🖼️ **Vue.js**                    💎 **Liquid / Ruby**  
+📱 **Ionic**                      🐘 **PostgreSQL**  
+🌌 **Cassandra**                  🐧 **Linux / Unix**
+
 
 
 
