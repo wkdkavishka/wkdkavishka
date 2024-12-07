@@ -1,30 +1,88 @@
 <!-- Header Section with a catchy title -->
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="dk-logo-2-round-sm.png" alt="my logo" style="width: 70px; height: auto; margin-right: 10px;">
-    <h1>Hi, I'm W.K.D.Kavishka!</h1>
-</div>
+<h1 align="center">Hi, I'm W.K.D.Kavishka!</h1>
 
-<!-- Description with an emoji -->
-<p align="center">
-  <img src="[https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge](https://www.linkedin.com/in/dumindu-kavishka/)" alt="Linkedin" />
-  <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge" alt="license" />
-</p>
+---
 
 <!-- An engaging GIF under the title -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="fun gif" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="fun gif" width="250"  />
 </p>
 
 ---
 
-## 🌟 Features
+<!-- Description with an emoji -->
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/sample-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 
-- 🔥 **Fast and Optimized**: This project is designed to be super fast.
-- 🎨 **Colorful**: We've added a lot of fun and colorful components!
-- ⚙️ **Customizable**: Make it your own by tweaking a few variables.
-- 🤖 **Automation Included**: Automates everything you want!
+  <!-- Facebook Badge -->
+  <a href="https://www.facebook.com/sample-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+
+  <!-- Instagram Badge -->
+  <a href="https://www.instagram.com/sample-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:sample@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+
+<!-- Twitter Badge -->
+  <a href="https://twitter.com/sample-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+
+</p>
 
 ---
+
+## 🌟 Technologies
+
+### 🐳 Docker
+### 🌱 Spring Boot
+### 🐍 Flask
+### 🚀 Express
+### 🖼️ Vue.js
+### 💎 Liquid / Ruby
+### 📱 Ionic
+### 🐘 PostgreSQL
+### 🌌 Cassandra
+### 🐧 Linux / Unix
+
+
+---
+
+## 🌟 Technologies
+
+<table>
+  <tr>
+    <td align="center">🐳 <b>Docker</b></td>
+    <td align="center">🌱 <b>Spring Boot</b></td>
+  </tr>
+  <tr>
+    <td align="center">🐍 <b>Flask</b></td>
+    <td align="center">🚀 <b>Express</b></td>
+  </tr>
+  <tr>
+    <td align="center">🖼️ <b>Vue.js</b></td>
+    <td align="center">💎 <b>Liquid / Ruby</b></td>
+  </tr>
+  <tr>
+    <td align="center">📱 <b>Ionic</b></td>
+    <td align="center">🐘 <b>PostgreSQL</b></td>
+  </tr>
+  <tr>
+    <td align="center">🌌 <b>Cassandra</b></td>
+    <td align="center">🐧 <b>Linux / Unix</b></td>
+  </tr>
+</table>
+
+
 
 ## 🚀 Installation
 
@@ -36,3 +94,14 @@ cd repo
 npm install
 npm start
 ```
+
+<h3 align="left">Status:</h3>
+<div style="text-align: center;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdkavishka&show_icons=true&theme=dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdkavishka&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wkdkavishka&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
