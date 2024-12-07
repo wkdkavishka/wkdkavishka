@@ -1,6 +1,6 @@
 <!-- Header Section with a catchy title -->
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="dk-logo-2-round.png" alt="my logo" style="width: 70px; height: auto; margin-right: 10px;">
+    <img src="dk-logo-2-round-sm.png" alt="my logo" style="width: 70px; height: auto; margin-right: 10px;">
     <h1>Hi, I'm W.K.D.Kavishka!</h1>
 </div>
 
