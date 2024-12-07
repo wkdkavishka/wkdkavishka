@@ -1,5 +1,11 @@
-<a href="https://zealous-hill-0ad399900.5.azurestaticapps.net/">
- <h1 align="center">Hi 👋, I'm W.K.D.Kavishka</h1></a>
+<h1 align="center">Hi 👋, I'm W.K.D.Kavishka</h1>
+
+<p align="center">
+  <a href="https://zealous-hill-0ad399900.5.azurestaticapps.net/">
+    ## Hi 👋, I'm W.K.D.Kavishka
+  </a>
+</p>
+
 <h3 align="center">Someone trying to learn and Improve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkdkavishka&label=Profile%20views&color=0e75b6&style=flat" alt="wkdkavishka" /> </p>
