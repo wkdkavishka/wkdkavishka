@@ -39,7 +39,7 @@
 
 <!-- Current Status -->
 
-- 🔭 Check Me On My Web Site [wkdkavishka.com](https://zealous-hill-0ad399900.5.azurestaticapps.net)
+- 🔭 Check Me On My Web Site [wkdkavishka.com](https://wkdkavishka.github.io/)
 
 - 🔭 I’m currently working on [Globevik](https://github.com/Globevik)
 
