@@ -91,7 +91,7 @@
 <h2 align="left">Familiar Technologies </h2>
   <p align="left">
   <h3 align="left">Cloud Platforms</h3>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </p>
 
   <h3>Tools</h3>
