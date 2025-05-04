@@ -1,26 +1,28 @@
 #!/bin/bash
 
-# Function to log messages with timestamp
-echo_log() {
-    echo "$(date '+%Y-%m-%d %H:%M:%S') - $1"
+this=$(pwd)
+TARGET_DIR="/mnt/Storage/projects/Personal projects/wkdkavishka.github.io/"
+
+echo "[deploy] Checking if target directory exists..."
+if [ ! -d "$TARGET_DIR" ]; then
+    echo "[deploy][ERROR] Target directory '$TARGET_DIR' does not exist. Deployment aborted."
+    exit 1
+fi
+
+echo "[deploy] Copying files to GitHub Pages repo..."
+cp README.md "$TARGET_DIR"
+
+cd "$TARGET_DIR" || {
+    echo "[deploy][ERROR] Failed to cd into '$TARGET_DIR'"
+    exit 1
 }
-
-echo_log "Starting git update process"
-
-echo_log "Copying README.md to ../wkdkavishka.github.io/"
-cp README.md ../wkdkavishka.github.io/ && echo_log "Successfully copied README.md" || echo_log "Failed to copy README.md"
-
-echo_log "Starting git operations"
-git add . && echo_log "Successfully added files to git" || echo_log "Failed to add files"
-
-git commit -m "auto deploy $(date '+%Y-%m-%d %H:%M:%S')" && echo_log "Successfully committed changes" || echo_log "Failed to commit changes"
-
-git config --global pull.rebase true && echo_log "Set git pull rebase configuration" || echo_log "Failed to set git pull rebase configuration"
-
-echo_log "Starting git pull operation"
-git pull && echo_log "Successfully pulled changes" || echo_log "Failed to pull changes"
-
-echo_log "Starting git push operation"
-git push && echo_log "Successfully pushed changes" || echo_log "Failed to push changes"
-
-echo_log "Git update process completed"
+echo "[deploy] Adding changes to git..."
+git add .
+echo "[deploy] Committing changes..."
+git commit -m "auto deploy $(date '+%Y-%m-%d %H:%M:%S')"
+git config --global pull.rebase true
+echo "[deploy] Pulling latest changes..."
+git pull
+echo "[deploy] Pushing to GitHub..."
+git push
+echo "[deploy] Deployment complete."
